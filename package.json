@@ -1,0 +1,27 @@
+{
+  "name": "ui-automation-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a boilerplate project to run ui automation tests easily.",
+  "scripts": {
+  },
+  "keywords": [
+    "ui",
+    "test",
+    "automation",
+    "selenium",
+    "wdio",
+    "cucumber",
+    "jasmine",
+    "mocha"
+  ],
+  "author": "Kris Biszta <kris.biszta@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^4.12.0"
+  },
+  "devDependencies": {
+    "babel-env": "^2.4.1",
+    "babel-register": "^6.26.0",
+    "moment": "^2.22.2"
+  }
+}
